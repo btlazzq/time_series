@@ -16,15 +16,9 @@ This repository contains the code implementation for *TempoStackNet*, a novel fr
 Ensure that the following dependencies are installed before running the framework:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/TempoStackNet.git
+   git clone https://github.com/btlazzq/time_series.git
    ```
-
-### Citation:
-If you use this code, please cite the original paper:
-```bibtex
-@article{your_paper_citation,
-  title={TempoStackNet: An Advanced Stacking-Based Network for Enhanced Multi-Step Cryptocurrencies Prediction Using Temporal Attention Mechanisms},
-  author={Wang, Han-Yue},
-  journal={Your Journal},
-  year={2024}
-}
+2. Install dependencies from the requirements.txt file:
+   ```bash
+   pip install -r requirements.txt
+   ```
