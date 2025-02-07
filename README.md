@@ -12,6 +12,13 @@ This repository contains the code implementation for *TempoStackNet*, a novel fr
 2. Install dependencies listed in `requirements.txt`.
 3. Run `main.py` to start training and evaluation.
 
+### Requirements:
+Ensure that the following dependencies are installed before running the framework:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your_username/TempoStackNet.git
+   ```
+
 ### Citation:
 If you use this code, please cite the original paper:
 ```bibtex
